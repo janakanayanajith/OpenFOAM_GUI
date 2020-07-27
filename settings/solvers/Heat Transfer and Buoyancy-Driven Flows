@@ -1,0 +1,4 @@
+buoyantPimpleFoam
+buoyantSimpleFoam
+chtMultiRegionFoam
+thermoFoam

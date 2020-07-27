@@ -1,0 +1,8 @@
+coalChemistryFoam
+DPMFoam
+MPPICFoam
+icoUncoupledKinematicParcelFoam
+reactingParcelFoam
+simpleReactingParcelFoam
+sprayFoam
+uncoupledKinematicParcelFoam

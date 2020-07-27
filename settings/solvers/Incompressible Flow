@@ -1,0 +1,10 @@
+adjointShapeOptimizationFoam
+boundaryFoam
+icoFoam
+nonNewtonianIcoFoam
+pimpleFoam
+SRFPimpleFoam
+pisoFoam
+shallowWaterFoam
+porousSimpleFoam
+SRFSimpleFoam
