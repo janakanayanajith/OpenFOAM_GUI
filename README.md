@@ -19,3 +19,6 @@ python3 -m pip install PyQt5
 
 3. Run application
 python3 OpenFOAM_IDE.py
+
+Contact:
+Email: janakanayanajith@gmail.com
