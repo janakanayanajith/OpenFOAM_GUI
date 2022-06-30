@@ -20,6 +20,8 @@ python3 -m pip install PyQt5
 3. Run application
 python3 OpenFOAM_IDE.py
 
+For more information: https://chemtronic.blogspot.com/2020/07/gui-for-openfoam.html
+
 Contact:
 
 Email: janakanayanajith@gmail.com
